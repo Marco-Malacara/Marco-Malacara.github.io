@@ -55,11 +55,6 @@ a {
     font-weight: 700;
   }
   
-  .btn-xl {
-    font-size: 18px;
-    padding: 20px 40px;
-  }
-  
   .btn-primary {
     background-color: #007bb5;
     border-color: #007bb5;
@@ -75,29 +70,7 @@ a {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
     box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
   }
-  
-  ::-moz-selection {
-    background: #007bb5;
-    text-shadow: none;
-  }
-  
-  ::selection {
-    background: #007bb5;
-    text-shadow: none;
-  }
-  
-  img::-moz-selection {
-    background: transparent;
-  }
-  
-  img::selection {
-    background: transparent;
-  }
-  
-  img::-moz-selection {
-    background: transparent;
-  }
-  
+
   #mainNav {
     background-color: #212529;
   }
@@ -218,10 +191,6 @@ a {
   .service-heading {
     margin: 15px 0;
     text-transform: none;
-  }
-
-  .portfolio-icon{
-      background-image: url("../img/code.png");
   }
   
   #portfolio .portfolio-item {
