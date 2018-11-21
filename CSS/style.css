@@ -1,0 +1,154 @@
+#body {
+    background-image: url("bgmain.gif");
+    background-attachment: local;
+    background-position: center;
+    
+
+}
+
+#body-contact {
+    background-image: url("contactbg.gif");
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#body-about {
+    background-image: url("aboutbg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: space;
+    width: 1900px
+}
+
+#body-future {
+    background-image: url("futurebg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: space;
+    width: 1900px
+}
+
+.large-font {
+    font-size: 65px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p {
+    color: azure;
+}
+
+a {
+    color: azure;
+}
+
+.text-coloring {
+    color: azure;
+}
+
+h2 {
+    color: skyblue;
+}
+
+
+li { 
+    color: azure;
+}
+
+.first-image {
+    position: relative;
+    margin-left: 1%;
+    margin-top: 10%;
+    height: 230px;
+    width: 28%;
+}
+
+.second-image {
+    position: relative;
+    margin-left: 70%;
+    margin-top: -18%;
+    height: 230px;
+    width: 28%;
+}
+
+#bodyid {
+    background-image: url("BKGR.jpg");
+    background-position: center;
+}
+
+.Text-ID-Two {
+    color: whitesmoke;
+}
+
+.social-link {
+  width: 55px;
+  margin-top: 5%;
+}
+
+.ls-ex1 {
+    margin-left: auto;
+}
+input {
+    color: white;
+    background-color: transparent;
+}
+
+
+.Icon {
+    width: 30px;
+    margin-top: 15%;
+}
+
+.large-icon {
+    width: 400px;
+    position: center;
+    margin-top: 5%;
+    background-color: transparent;
+}
+ 
+.fieldsetbg {
+    margin-top: 14%;
+    margin-left: 0%;
+}
+
+.grow {
+     transition: all .5s ease-in-out;
+    
+    }
+
+.grow:hover { 
+    transform: scale(1.5);
+ }
+
+
+#snapchat {
+    width: 100px;
+    margin-left: 20%;
+}
+
+#instagram {
+    width: 100px;
+    margin-left: -20%;
+    margin-top: -32%;
+}
+
+#facebook {
+    width: 100px;
+    margin-left: 60%;
+}
+
+#linkedin {
+    width: 100px;
+    margin-left: 8%;
+    margin-top: -32%;
+}
+
+img {
+    opacity: 0.5;
+     filter: alpha(opacity=50);
+      }
+
+   img:hover {
+    opacity: 1.0;
+   filter: alpha(opacity=100);
+   } 
